@@ -1,5 +1,6 @@
-[X] CTF Game name: LostBot CTF
+[+] CTF Game name: LostBot CTF
 
-[+] For information on how I got the Flag, you can visit my Gemini chat url below.\n
-    [-]MyChat_URL: https://gemini.google.com/share/9a70259dbb79
+<p>For information on how I got the Flag, you can visit my Gemini chat url below.</p>
+
+    https://gemini.google.com/share/9a70259dbb79
 
