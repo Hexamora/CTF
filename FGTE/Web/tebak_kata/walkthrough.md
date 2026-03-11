@@ -1,2 +1,2 @@
-[+] CTF Game name: Tebak Buah CTF
+[+] CTF Game name: Tebak Buah
 
